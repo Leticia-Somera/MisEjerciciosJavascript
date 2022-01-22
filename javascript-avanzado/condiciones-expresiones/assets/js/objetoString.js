@@ -33,5 +33,5 @@ function invertirPalabra(cadena) {
     let cadenaInvertida = arreglo.join("");
     return console.log(cadenaInvertida);    
 }
-
+  
 invertirPalabra("Generation");
